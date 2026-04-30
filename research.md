@@ -1,25 +1,43 @@
-layout: default
-title: Research
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Research | Zhang Lab</title>
+  <link rel="stylesheet" href="assets/css/page.css">
+</head>
+<body>
 
-# Research
+<header class="page-header">
+  <a href="index.html">ZHANG LAB</a>
+  <nav>
+    <a href="research.html">Research</a>
+    <a href="team.html">Team</a>
+    <a href="publications.html">Publications</a>
+    <a href="join-us.html">Join Us</a>
+    <a href="news.html">News</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
 
-[Home](./) | [Research](./research) | [People](./people) | [Publications](./publications) | [News](./news) | [Open Positions](./openings) | [Contact](./contact)
+<main class="content">
+  <h1>Research</h1>
 
-Our research focuses on the discovery, biosynthesis, and biological functions of fungal natural products.
+  <p>
+    Our lab studies fungal natural products, microbial interactions,
+    biosynthesis, and chemical biology.
+  </p>
 
-## Research Area 1: Natural Product Discovery
+  <h2>Natural Product Discovery</h2>
+  <p>
+    We use genome mining, metabolomics, molecular biology, and chemical analysis
+    to discover bioactive molecules from fungi.
+  </p>
 
-We use genome mining, metabolomics, molecular biology, and chemical analysis to discover bioactive natural products from fungi.
+  <h2>Microbial Interactions</h2>
+  <p>
+    We investigate how microorganisms communicate and compete through specialized metabolites.
+  </p>
+</main>
 
-## Research Area 2: Fungal Secondary Metabolism
-
-We investigate how fungi produce structurally diverse secondary metabolites and how these compounds contribute to fungal biology.
-
-## Research Area 3: Microbial Interactions
-
-We study chemical communication and interactions between fungi, bacteria, and host organisms.
-
-## Research Area 4: Chemical Biology
-
-We aim to understand the biological activities and mechanisms of natural products.
+</body>
+</html>
