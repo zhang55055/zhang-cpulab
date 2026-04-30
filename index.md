@@ -1,32 +1,46 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zhang Lab</title>
+  <link rel="stylesheet" href="assets/css/home.css">
+</head>
 
-# Zhang Lab
+<body>
 
-[Home](./) | [Research](./research) | [People](./people) | [Publications](./publications) | [News](./news) | [Open Positions](./openings) | [Contact](./contact)
+  <header class="site-header">
+    <div class="lab-name">
+      <a href="/">ZHANG LAB</a>
+    </div>
 
-Welcome to the Zhang Lab.
+    <nav class="main-nav">
+      <a href="research.html">RESEARCH</a>
+      <a href="team.html">TEAM</a>
+      <a href="publications.html">PUBLICATIONS</a>
+      <a href="join-us.html">JOIN US</a>
+      <a href="news.html">NEWS</a>
+      <a href="contact.html">CONTACT</a>
+    </nav>
+  </header>
 
-We study fungal natural products, microbial interactions, and molecular mechanisms of bioactive compounds.
+  <main class="hero">
+    <div class="hero-overlay"></div>
 
-## Research
+    <div class="hero-content">
+      <h1>ZHANG LAB</h1>
+      <h2>Natural Products, Microbial Interactions and Chemical Biology</h2>
+    </div>
+  </main>
 
-Our lab focuses on:
+  <section class="institute-bar">
+    <p>School of Traditional Chinese Materia Medica, China Pharmaceutical University</p>
+  </section>
 
-- Natural product discovery
-- Bacterial secondary metabolism
-- Microbial interactions
-- Genome mining
-- Chemical biology
+  <footer class="footer">
+    <p>© Zhang Lab · CPU</p>
+  </footer>
 
-## News
+</body>
+</html>
 
-- 2026-04-29: Our lab website is online.
-
-## Contact
-
-Prof. Dr. Shuaibing Zhang  
-School of Traditional Chinese Pharmarcy, China Pharmaceutical University  
-Email: shuaibing.zhang@cpu.edu.cn
