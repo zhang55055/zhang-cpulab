@@ -1,0 +1,73 @@
+---
+layout: default
+title: Publications
+---
+
+# Publications
+
+[Home](./) | [Research](./research) | [People](./people) | [Publications](./publications) | [News](./news) | [Open Positions](./openings) | [Contact](./contact)
+
+## 2026
+
+23.S. Zhang, Y. Huang, K. Schlabach, M. A. Tran, R. Nachawati, N. Bader, A. J. Komor, C. Hertweck, H. Schindelin, M. Lakemeyer,* U.A. Hellmich,*and P. Stallforth* “Microbial DL-Peptidases Enable Predator Defense and Facilitate Structure Elucidation of Complex Natural Products. ” J. Am. Chem. Soc. 2026, 148, 5264-5274. (Cover article)
+
+<div style="text-align: center;">
+<img src="assets/images/JACS-Cover art.png" alt="Zhang Lab group photo" style="max-width: 600px; width: 20%; height: auto;">
+</div>
+
+## 2025
+
+22.S. Zhang, Y. Huang, R. Nachawati, P. Huber, G. Walther, L. Grefor, I. Vilotigevic, P. Stallforth* “Pangenome analysis for the plant pathogen Pseudomonas syringae reveals unique natural products for niche adaptation” Angew. Chem. Int. Ed. 2025, 64, e202503679.
+
+21.S. Zhang, K. Schlabach, V. H. Pérez Carrillo, A. Ibrahim, Shahran Nayem, A. Komor, R. Mukherji, S. Chowdhury, L. Reimer, A. Corina Volt, C. Hertweck, U. A. Hellmich, P. Stallforth* “Pathogenic bacteria use a chemical radar to detect and destroy the predators” Cell, 2025, 188, 2495 – 2504.
+
+## 2024
+20.S. Zhang, P. Stallforth* “Biofilms and exopolysaccharides in Pseudomonas aeruginosa: pathogenesis, immune evasion, and lung–brain signaling during pneumonia”. Signal Transduc. Target Ther., 2024, 9, 204. 
+
+19.S. Zhang* “Die Rolle von Naturstoffen in mikrobiellen Räuber-Beute-Interaktionen” BIOspektrum, 29, 814-814.
+
+## 2023
+
+18.M. Klapper+, A. Hübner+, A. Ibrahim+, I. Wasmuth, M. Borry, V.G. Haensch, S. Zhang, W.K. Al-Jammal, H. Suma, J.A. Fellows Yates, J. Frangenberg, I.M. Velsko, S. Chowdhury, R. Herbst, E.V. Bratovanov, H.M. Dahse, T. Horch, C. Hertweck, M.R. González Morales, L.G. Straus, I. Vilotijevic, C. Warinner*, P. Stallforth* “Natural products from reconstructed bacterial genomes of the Middle and Upper Paleolithic”. Science. 2023, 12, 619-624.
+
+## 2022
+
+17.M. Günther+, C. Reimer+, R. Herbst+, J.E. Kufs, J. Rautschek, N. Ueberschaar, S. Zhang, G. Peschel, L. Reimer, L. Regestein, V. Valiante, F. Hillmann, P. Stallforth* “Yellow polyketide pigment suppresses premature hatching in social amoeba” Proc. Natl. Acad. Sci. U. S. A. 2022, 119, e2116122119. 
+
+## 2021
+
+16.S. Zhang+, R. Mukherji+, S. Chowdhury, L. Reimer, P. Stallforth* “Lipopeptide-mediated bacterial interaction enables cooperative predator defense” Proc. Natl. Acad. Sci. U. S. A. 2021, 118, e2013759118. (Cozzarelli Prize Winner 2022)
+
+## 2020
+
+15.R. Mukherji+, S. Zhang+, S. Chowdhury, P. Stallforth* “Chimeric LuxR transcription factors rewire natural product regulation” Angew. Chem. Int. Ed. 2020, 59, 6192–6195. 
+
+14.M. Klapper, K. Schlabach, A. Paschold, S. Zhang, S. Chowdhury, K.-D. Menzel, M. A. Rosenbaum, P. Stallforth* “Biosynthesis of Pseudomonas-derived butenolides” Angew. Chem. Int. Ed. 2020, 59, 5607–5610.
+
+## Before 2020
+13.S. Götze+, J. Arp+, G. Lackner+, S. Zhang, H. Kries, M. Klapper, M. García-Altares, K. Willing, M. Günther, P. Stallforth* “Structure elucidation of the syringafactin lipopeptides provides insight in the evolution of nonribosomal peptide synthetases” Chem. Sci.  2019, 10, 10979–10990.
+
+12.M. Klapper, A. Paschold, S. Zhang, C. Weigel, H.-M. Dahse, S. Götze, S. Pace, S. König, Z. Rao, L. Reimer, O. Werz, P. Stallforth* “Bioactivity and mode of action of bacterial tetramic acids” ACS Chem. Biol. 2019, 14, 1693–1697.
+
+11.L. Xu, P. Hai, S. Zhang, J. Xiao, Y. Gao, B. Ma, H. Fu, Y. Chen, X. Yang* “Prenylated indole diterpene alkaloids from a mine-soil-derived Tolypocladium sp.” J. Nat. Prod. 2019, 82, 221–231.
+
+10.T. Feng, X. Gan, Y. Zhao, S. Zhang, H. Chen, J. He, Y. Zheng, H. Sun, R. Huang, Z. Li, J. Liu* “Tricholopardins A and B, anti-inflammatory terpenoids from the fruiting bodies of Tricholoma pardinum” J. Nat. Prod. 2019, 82, 45–50.
+
+9.Y. Huang, S. Zhang, H. Chen, Z. Zhao, Z. Li, T. Feng*, J. Liu* “Daedaleanols A and B, two new sesquiterpenes from cultures of the basidiomycete Daedalea incana” Nat. Prod. Res. 2019, 33, 74–79.
+
+8.X. Pang+, S. Zhang+, H. Chen, W. Zhao, D. Yang, P. Xian, L. Xu, Y. Tao, H. Fu, X. Yang* “Emericelactones A-D: four novel polyketides produced by Emericella sp. xl 029, a fungus associated the leaves of Panax notoginseng” Tetrahedron lett. 2018, 59, 4566-4570.
+
+7.X. Pang, S. Zhang, P. Xian, X. Wu, D. Yang, H. Fu, X. Yang* “Emericellins A and B: two sesquiterpenoids with an unprecedented tricyclo [4, 4, 2, 1] hendecane scaffold from the liquid cultures of endophytic fungus Emericella sp. XL 029” Fitoterapia 2018, 131, 55-58.
+
+6.S. Zhang, Y. Huang, H. Chen, Z. Li, B. Wu, T. Feng*, J. Liu* “Confluenines A–F, N-oxidized l-isoleucine derivatives from the edible mushroom Albatrellus confluens” Tetrahedron lett. 2018, 59, 3262-3266.
+
+5.S. Zhang, Z. Li, M. Stadler, H. Chen, Y. Huang. X. Gan, T. Feng*, J. Liu* “Lanostane Triterpenoids from Tricholoma pardinum with NO Production inhibitory and cytotoxic activities” Phytochemistry 2018, 152, 105-112.
+
+4.S. Zhang, Y. Huang, S. He, H. Chen, B. Wu, S. Li, Z.Zhao, Z. Li, X. Wang, J. Zuo*, T. Feng*, J. Liu* “Heterocyclic compounds from the mushroom Albatrellus confluens and their inhibitions against lipopolysaccharides-induced B lymphocyte cell proliferation” J. Org. Chem. 2018, 83, 10158-10165. (Hot off the press in Natural Product Reports)
+
+3.S. Zhang, Y. Huang, S. He, H. Chen, Z. Li, B Wu, J. Zuo, T. Feng*, J. Liu* “Albatredines A and B, a pair of epimers with unusual natural heterocyclic skeletons from edible mushroom Albatrellus confluens” RSC Adv. 2018, 8, 23914-23918. (Hot off the press in Natural Product Reports)
+
+2.Y. Huang, S. Zhang, H. Chen, Z. Zhao, Z. Zhou, Z. Li, T. Feng*, J. Liu* “New acetylenic acids and derivatives from the edible mushroom Craterellus lutescens (Cantharellaceae)” J. Agric. Food Chem. 2017, 65, 3835-3841.
+
+1.Y. Huang, S. Zhang, H. Chen, Z. Zhao, Z. Li, T. Feng*, J. Liu* “New acetylenic acids and derivatives from the Basidiomycete Craterellus lutescens (Cantharellaceae)” Fitoterapia 2016, 115,177-181.
+
